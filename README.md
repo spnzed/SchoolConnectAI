@@ -14,9 +14,11 @@ Este proyecto combinaría datos de ubicación de escuelas con información geoes
    - Ideal para principiantes porque tiene documentación y formato estructurado
 
 2. **OpenStreetMap**: Datos geoespaciales de fácil acceso que no requieren conocimientos técnicos avanzados
+   - Enlace: https://www.openstreetmap.org/#map=6/40.00/-2.48
    - Plataforma visual intuitiva con muchas herramientas de soporte
 
-3. **Ookla Speedtest**: Datos de rendimiento de internet que son sencillos de entender y visualizar
+4. **Ookla Speedtest**: Datos de rendimiento de internet que son sencillos de entender y visualizar
+   - Enlace: https://registry.opendata.aws/speedtest-global-performance/
    - Formato estandarizado que facilita la integración
 
 ## Herramientas Recomendadas para Principiantes
