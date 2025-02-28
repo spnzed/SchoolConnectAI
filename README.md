@@ -10,7 +10,7 @@ Este proyecto combinaría datos de ubicación de escuelas con información geoes
 ## Recursos Clave (User-Friendly)
 
 1. **Giga School Location Data**: Datos de geolocalización de escuelas que están bien estructurados y accesibles a través de una API
-   - Enlace: https://maps.giga.global/docs/explore-api
+   - Enlace: https://drive.google.com/drive/folders/1gliQCbbAX8s4cyq0gpQKvZjnMpbnEPiI
    - Ideal para principiantes porque tiene documentación y formato estructurado
 
 2. **OpenStreetMap**: Datos geoespaciales de fácil acceso que no requieren conocimientos técnicos avanzados
